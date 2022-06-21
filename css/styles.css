@@ -1,0 +1,10 @@
+.input {
+  margin: 0;
+  position: absolute;
+  top: 25%;
+  transform: translateY(-75%);
+}
+
+body {
+background-color:#FDF4DC;
+}
